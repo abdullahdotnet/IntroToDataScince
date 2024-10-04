@@ -1,2 +1,2 @@
 # IntroToDataScince
-In this repositary we will practice git and github
+I use this repositary to teach students practical implementation of Git and Github
